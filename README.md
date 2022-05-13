@@ -1,4 +1,4 @@
-# Desafio-Iniciais-Java-GFT-Dio
+# Desafios-Iniciais-Java-GFT-Dio
 
 
 
